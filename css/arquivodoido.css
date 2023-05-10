@@ -128,3 +128,15 @@ label {
 .form-group type[radio]{
   padding-top: 100px;
 }
+
+/*---------Estilo btn na pagina de agraecimento-------*/
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+
+  height: 5vh; /* Opcional: Define a altura do container para ocupar toda a altura da janela */
+}
+
